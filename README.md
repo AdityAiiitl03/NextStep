@@ -22,7 +22,7 @@ HireReady is a simple and interactive interview preparation platform designed fo
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/AdityAiiitl03/HireReady.git
+   git clone https://github.com/AdityAiiitl03/NextStep.git
    cd HireReady
    ```
 
